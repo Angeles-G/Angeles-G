@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hola 👋
+Soy junior Software Developer - FullStack & AI, me apasiona construir aplicaciones tanto moviles como web, como tambien el analisis exploratorio de datos.  
 
-<!--
-**Angeles-G/Angeles-G** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻Habilidades 
+### Lenguajes de programación
+* Python 
+* PHP
+* C#
+* TypeScript
+### AI & Big Data
+* Power BI
+* Numpy
+* Pandas
+* Scikit-Learn
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
