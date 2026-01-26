@@ -13,13 +13,13 @@ Mi enfoque combina la rigurosidad de la estadística predictiva con la capacidad
 ### 📊 Data Science & AI
 * **Lenguajes:** Python (Pandas, NumPy, Scikit-Learn, Matplotlib/Seaborn).
 * **ML & Modelado:** Regresión, Clasificación, Clustering y Series Temporales.
-* **Visualización:** Power BI, Streamlit (para dashboards interactivos).
+* **Visualización:** Power BI.
 * **Estadística:** Análisis descriptivo y modelos predictivos.
 
 ### 💻 Software Development
-* **Backend:** PHP, C#, Python (Flask/FastAPI).
-* **Frontend:** TypeScript, JavaScript.
-* **Bases de Datos:** SQL Server, MySQL, PostgreSQL.
+* **Backend:** PHP, C#, Python.
+* **Frontend:** TypeScript.
+* **Bases de Datos:** SQL Server, MySQL.
 
 ---
 
@@ -28,7 +28,7 @@ Mi enfoque combina la rigurosidad de la estadística predictiva con la capacidad
 ### 🤖 [Nombre del Proyecto de ML]
 * **Descripción:** Predicción de precipitaciones utilizando un conjunto de datos simulado de las presipitaciones en Londres. 
 * **Tecnologías:** Python, Scikit-Learn, Pandas.
-* [Link al repo]
+* https://github.com/Angeles-G/portafolio-Data-Science
 
 ---
 
