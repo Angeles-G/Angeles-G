@@ -25,7 +25,7 @@ Mi enfoque combina la rigurosidad de la estadística predictiva con la capacidad
 
 ## 📈 Proyectos Destacados
 
-### 🤖 [Nombre del Proyecto de ML]
+### 🤖 Determinantes de las precipitaciones en Londres 
 * **Descripción:** Predicción de precipitaciones utilizando un conjunto de datos simulado de las presipitaciones en Londres. 
 * **Tecnologías:** Python, Scikit-Learn, Pandas.
 * https://github.com/Angeles-G/portafolio-Data-Science
