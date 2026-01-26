@@ -26,19 +26,14 @@ Mi enfoque combina la rigurosidad de la estadística predictiva con la capacidad
 ## 📈 Proyectos Destacados
 
 ### 🤖 [Nombre del Proyecto de ML]
-* **Descripción:** Predicción de [X] utilizando modelos de [clasificación/regresión]. Logré un accuracy del [X]%.
+* **Descripción:** Predicción de precipitaciones utilizando un conjunto de datos simulado de las presipitaciones en Londres. 
 * **Tecnologías:** Python, Scikit-Learn, Pandas.
-* [Link al repo]
-
-### 📊 [Análisis Exploratorio de Datos (EDA)]
-* **Descripción:** Análisis profundo sobre [sector: salud, finanzas, retail] para identificar tendencias clave.
-* **Tecnologías:** Jupyter Notebooks, Seaborn, Power BI.
 * [Link al repo]
 
 ---
 
 ## 📫 Contacto
-* **LinkedIn:** [Tu enlace aquí]
+* **LinkedIn:** https://www.linkedin.com/in/angeles-belen-garcía-7b4390226
 * **Email:** g.angeles112004@gmail.com
 
 ---
